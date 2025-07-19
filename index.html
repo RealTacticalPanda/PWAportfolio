@@ -23,6 +23,12 @@
 </div> -->
 
 <!-- navbar starts -->
+<script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
+</script>
+
 <header>
         <a href="/" class="logo"><i class="fab fa-node-js"></i> Seth</a>
 
