@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.sethwebb.www.twa",
+        "sha256_cert_fingerprints": ["D1:5A:FB:77:42:2D:D1:53:CB:E3:0B:8E:B5:A6:93:D3:AA:3C:C5:10:AC:F0:5E:32:55:E1:D1:12:36:32:6D:7A"]
+      }
+    }]
