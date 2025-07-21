@@ -1,13 +1,13 @@
 {
 "name": "Portfolio-Website",
 "short_name": "Seth Webb",
-"start_url": "The URL that should be loaded when your application is opened",
-"display": "standalone",
+"start_url": "https://sethwebb.com/",
+"display": "fullscreen",
 "description": "A description for your application",
-"lang": " The default language of your application",
+"lang": " eng",
 "dir": "auto",
-"theme_color": "#000000",
-"background_color": "#000000",
+"theme_color": "#EF0B0B",
+"background_color": "#EF0B0B",
 "orientation": "any",
 "icons": [
     {
