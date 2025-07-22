@@ -281,7 +281,7 @@ header .navbar ul li a:hover {
 }
 .socials .social-icons {
   padding-left: 0;
-  margin-bottom: 0;
+  margin-bottom: 10px;
   list-style: none;
 }
 .socials .social-icons li {
