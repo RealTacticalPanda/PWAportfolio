@@ -52,7 +52,7 @@
   {
     "name": "Coming Soon",
     "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-    "image": "flipkartmern",
+    "image": "soon",
     "category": "mern",
     "links": {
       "view": "https://flipkartwebs.herokuapp.com/",
@@ -72,7 +72,7 @@
   {
     "name": "Coming Soon",
     "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
+    "image": "soon",
     "category": "mern",
     "links": {
       "view": "#",
@@ -82,7 +82,7 @@
   {
     "name": "Coming Soon",
     "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "flipkartphp",
+    "image": "soon",
     "category": "lamp",
     "links": {
       "view": "#",
@@ -102,7 +102,7 @@
   {
     "name": "Web UI Clones",
     "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
-    "image": "webuiclones",
+    "image": "soon",
     "category": "mern",
     "links": {
       "view": "#",
