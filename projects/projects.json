@@ -62,7 +62,7 @@
   {
     "name": "Coming Soon",
     "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
+    "image": "soon",
     "category": "mern",
     "links": {
       "view": "#",
@@ -112,7 +112,7 @@
   {
     "name": "Crypto Tracker",
     "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
-    "image": "cryptotracker",
+    "image": "soon",
     "category": "mern",
     "links": {
       "view": "#",
@@ -122,7 +122,7 @@
   {
     "name": "Hulu Website",
     "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
-    "image": "hulu",
+    "image": "soon",
     "category": "mern",
     "links": {
       "view": "#",
