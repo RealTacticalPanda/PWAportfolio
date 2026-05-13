@@ -16,6 +16,13 @@
       "type": "image/png",
       "purpose": "maskable"
     },
+    {
+      "src": "https://www.sethwebb.com/assets/images/androidpanda192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
   "screenshots": [
     {
       "src": "https://www.pwabuilder.com/assets/screenshots/screen1.png",
